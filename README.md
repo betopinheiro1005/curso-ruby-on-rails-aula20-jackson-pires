@@ -1,24 +1,20 @@
-# README
+# Curso de Ruby on Rails – Aula 20
+## Jackson Pires
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Requisitos
 
-Things you may want to cover:
+```bash
+- Ruby 2.5.1  
+- Rails 5.2.1  
+- MySQL 5.7
+```
 
-* Ruby version
+### Instalação de dependências
 
-* System dependencies
+```bash
+bundle install
+```
 
-* Configuration
+[Vídeos do curso](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Aula 20 – Criando uma pequena aplicação
